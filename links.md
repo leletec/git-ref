@@ -8,3 +8,4 @@ Ein paar Git-Links
  - [Adding Android projects to Git](http://stackoverflow.com/questions/24902538/how-to-add-android-project-to-git)
  - [Exchanging between offline, but equal repos](http://stackoverflow.com/questions/5585262/site-backup-on-flash-drive-with-git)
  - [Dealing with line endings](https://help.github.com/articles/dealing-with-line-endings/)
+ - [Overview help page for GitHub] (https://help.github.com/categories/writing-on-github/)
