@@ -57,9 +57,6 @@ pause >nul
       }
     }
 
-Namensnennungen (@mentions)
------------------------------------------
-Hiermit kann ein Benutzer, z.B. @okitec auf diesen Beitrag aufmerksam gemacht werden.
 
 Tast Lists:
 -------------
