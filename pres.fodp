@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
 <office:document xmlns:office="urn:oasis:names:tc:opendocument:xmlns:office:1.0" xmlns:style="urn:oasis:names:tc:opendocument:xmlns:style:1.0" xmlns:text="urn:oasis:names:tc:opendocument:xmlns:text:1.0" xmlns:table="urn:oasis:names:tc:opendocument:xmlns:table:1.0" xmlns:draw="urn:oasis:names:tc:opendocument:xmlns:drawing:1.0" xmlns:fo="urn:oasis:names:tc:opendocument:xmlns:xsl-fo-compatible:1.0" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:meta="urn:oasis:names:tc:opendocument:xmlns:meta:1.0" xmlns:number="urn:oasis:names:tc:opendocument:xmlns:datastyle:1.0" xmlns:presentation="urn:oasis:names:tc:opendocument:xmlns:presentation:1.0" xmlns:svg="urn:oasis:names:tc:opendocument:xmlns:svg-compatible:1.0" xmlns:chart="urn:oasis:names:tc:opendocument:xmlns:chart:1.0" xmlns:dr3d="urn:oasis:names:tc:opendocument:xmlns:dr3d:1.0" xmlns:math="http://www.w3.org/1998/Math/MathML" xmlns:form="urn:oasis:names:tc:opendocument:xmlns:form:1.0" xmlns:script="urn:oasis:names:tc:opendocument:xmlns:script:1.0" xmlns:config="urn:oasis:names:tc:opendocument:xmlns:config:1.0" xmlns:ooo="http://openoffice.org/2004/office" xmlns:ooow="http://openoffice.org/2004/writer" xmlns:oooc="http://openoffice.org/2004/calc" xmlns:dom="http://www.w3.org/2001/xml-events" xmlns:xforms="http://www.w3.org/2002/xforms" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:smil="urn:oasis:names:tc:opendocument:xmlns:smil-compatible:1.0" xmlns:anim="urn:oasis:names:tc:opendocument:xmlns:animation:1.0" xmlns:rpt="http://openoffice.org/2005/report" xmlns:of="urn:oasis:names:tc:opendocument:xmlns:of:1.2" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:grddl="http://www.w3.org/2003/g/data-view#" xmlns:officeooo="http://openoffice.org/2009/office" xmlns:tableooo="http://openoffice.org/2009/table" xmlns:drawooo="http://openoffice.org/2010/draw" xmlns:calcext="urn:org:documentfoundation:names:experimental:calc:xmlns:calcext:1.0" xmlns:loext="urn:org:documentfoundation:names:experimental:office:xmlns:loext:1.0" xmlns:field="urn:openoffice:names:experimental:ooo-ms-interop:xmlns:field:1.0" xmlns:formx="urn:openoffice:names:experimental:ooxml-odf-interop:xmlns:form:1.0" xmlns:css3t="http://www.w3.org/TR/css3-text/" office:version="1.2" office:mimetype="application/vnd.oasis.opendocument.presentation">
- <office:meta><meta:creation-date>2016-04-12T11:41:35.042000000</meta:creation-date><meta:generator>LibreOffice/5.0.5.2$Windows_X86_64 LibreOffice_project/55b006a02d247b5f7215fc6ea0fde844b30035b3</meta:generator><dc:date>2016-04-25T19:36:24.058000000</dc:date><meta:editing-duration>PT7H58M26S</meta:editing-duration><meta:editing-cycles>64</meta:editing-cycles><meta:document-statistic meta:object-count="193"/></office:meta>
+ <office:meta><meta:creation-date>2016-04-12T11:41:35.042000000</meta:creation-date><meta:generator>LibreOffice/5.0.5.2$Windows_X86_64 LibreOffice_project/55b006a02d247b5f7215fc6ea0fde844b30035b3</meta:generator><dc:date>2016-04-25T19:50:31.723000000</dc:date><meta:editing-duration>PT8H12M33S</meta:editing-duration><meta:editing-cycles>65</meta:editing-cycles><meta:document-statistic meta:object-count="194"/></office:meta>
  <office:settings>
   <config:config-item-set config:name="ooo:view-settings">
    <config:config-item config:name="VisibleAreaTop" config:type="int">-6955</config:config-item>
@@ -29,7 +29,7 @@
      <config:config-item config:name="NoColors" config:type="boolean">true</config:config-item>
      <config:config-item config:name="RulerIsVisible" config:type="boolean">false</config:config-item>
      <config:config-item config:name="PageKind" config:type="short">0</config:config-item>
-     <config:config-item config:name="SelectedPage" config:type="short">9</config:config-item>
+     <config:config-item config:name="SelectedPage" config:type="short">26</config:config-item>
      <config:config-item config:name="IsLayerMode" config:type="boolean">false</config:config-item>
      <config:config-item config:name="IsDoubleClickTextEdit" config:type="boolean">true</config:config-item>
      <config:config-item config:name="IsClickChangeRotation" config:type="boolean">true</config:config-item>
@@ -37,7 +37,7 @@
      <config:config-item config:name="EditModeStandard" config:type="int">0</config:config-item>
      <config:config-item config:name="EditModeNotes" config:type="int">0</config:config-item>
      <config:config-item config:name="EditModeHandout" config:type="int">1</config:config-item>
-     <config:config-item config:name="VisibleAreaTop" config:type="int">-6955</config:config-item>
+     <config:config-item config:name="VisibleAreaTop" config:type="int">-6048</config:config-item>
      <config:config-item config:name="VisibleAreaLeft" config:type="int">-416</config:config-item>
      <config:config-item config:name="VisibleAreaWidth" config:type="int">28992</config:config-item>
      <config:config-item config:name="VisibleAreaHeight" config:type="int">33263</config:config-item>
@@ -3546,7 +3546,7 @@
       <text:p><text:span text:style-name="T8">Forken</text:span></text:p>
      </draw:text-box>
     </draw:frame>
-    <draw:frame draw:style-name="gr6" draw:text-style-name="P7" draw:layer="layout" svg:width="25.199cm" svg:height="9.813cm" svg:x="1.399cm" svg:y="6.096cm" presentation:class="graphic" presentation:user-transformed="true">
+    <draw:frame draw:style-name="gr6" draw:text-style-name="P7" xml:id="id1" draw:id="id1" draw:layer="layout" svg:width="25.199cm" svg:height="9.813cm" svg:x="1.399cm" svg:y="6.096cm" presentation:class="graphic" presentation:user-transformed="true">
      <draw:image xlink:href="">
       <office:binary-data>iVBORw0KGgoAAAANSUhEUgAABAMAAAGQCAYAAADbdKlkAAAABmJLR0QA/wD/AP+gvaeTAAAA
        CXBIWXMAAA7DAAAOwwHHb6hkAAAAB3RJTUUH4AQWExks7drHcwAAIABJREFUeNrs3XlUVHee
@@ -4412,9 +4412,23 @@
     </draw:frame>
     <draw:frame draw:style-name="gr11" draw:text-style-name="P21" draw:layer="layout" svg:width="6.383cm" svg:height="0.569cm" svg:x="11.017cm" svg:y="15.831cm">
      <draw:text-box>
-      <text:p><text:span text:style-name="T9">http</text:span><text:span text:style-name="T9">s://github.com/octocat/spoon-knife; edited</text:span></text:p>
+      <text:p xml:id="id2" text:id="id2"><text:span text:style-name="T9">http</text:span><text:span text:style-name="T9">s://github.com/octocat/spoon-knife; edited</text:span></text:p>
      </draw:text-box>
     </draw:frame>
+    <anim:par presentation:node-type="timing-root">
+     <anim:seq presentation:node-type="main-sequence">
+      <anim:par smil:begin="next">
+       <anim:par smil:begin="0s">
+        <anim:par smil:begin="0s" smil:fill="hold" presentation:node-type="on-click" presentation:preset-class="entrance" presentation:preset-id="ooo-entrance-appear">
+         <anim:set smil:begin="0s" smil:dur="0.001s" smil:fill="hold" smil:targetElement="id1" smil:attributeName="visibility" smil:to="visible"/>
+        </anim:par>
+        <anim:par smil:begin="0s" smil:fill="hold" presentation:node-type="with-previous" presentation:preset-class="entrance" presentation:preset-id="ooo-entrance-appear" presentation:group-id="0">
+         <anim:set smil:begin="0s" smil:dur="0.001s" smil:fill="hold" smil:targetElement="id2" anim:sub-item="text" smil:attributeName="visibility" smil:to="visible"/>
+        </anim:par>
+       </anim:par>
+      </anim:par>
+     </anim:seq>
+    </anim:par>
     <presentation:notes draw:style-name="dp2">
      <draw:page-thumbnail draw:style-name="gr4" draw:layer="layout" svg:width="14.848cm" svg:height="11.136cm" svg:x="3.075cm" svg:y="2.257cm" draw:page-number="11" presentation:class="page"/>
      <draw:frame presentation:style-name="pr5" draw:text-style-name="P22" draw:layer="layout" svg:width="16.799cm" svg:height="13.364cm" svg:x="2.1cm" svg:y="14.107cm" presentation:class="notes" presentation:placeholder="true" presentation:user-transformed="true">
@@ -5378,7 +5392,7 @@
       <text:p><text:span text:style-name="T8">Clonen</text:span></text:p>
      </draw:text-box>
     </draw:frame>
-    <draw:frame draw:style-name="gr6" draw:text-style-name="P7" draw:layer="layout" svg:width="25.199cm" svg:height="1.678cm" svg:x="1.601cm" svg:y="5.7cm" presentation:class="graphic" presentation:user-transformed="true">
+    <draw:frame draw:style-name="gr6" draw:text-style-name="P7" xml:id="id3" draw:id="id3" draw:layer="layout" svg:width="25.199cm" svg:height="1.678cm" svg:x="1.601cm" svg:y="5.7cm" presentation:class="graphic" presentation:user-transformed="true">
      <draw:image xlink:href="">
       <office:binary-data>iVBORw0KGgoAAAANSUhEUgAAAnYAAAAqCAYAAAA+hxZcAAAAAXNSR0IArs4c6QAAAARnQU1B
        AACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAm1SURBVHhe7Z09ctw4EEZ1J6ebbeRs
@@ -5518,7 +5532,7 @@
       <text:p/>
      </draw:image>
     </draw:frame>
-    <draw:frame draw:style-name="gr3" draw:text-style-name="P7" draw:layer="layout" svg:width="19.498cm" svg:height="7cm" svg:x="4.8cm" svg:y="8.8cm">
+    <draw:frame draw:style-name="gr3" draw:text-style-name="P7" xml:id="id5" draw:id="id5" draw:layer="layout" svg:width="19.498cm" svg:height="7cm" svg:x="4.8cm" svg:y="8.8cm">
      <draw:image xlink:href="">
       <office:binary-data>iVBORw0KGgoAAAANSUhEUgAAAd8AAACsCAYAAAA6waaDAAAAAXNSR0IArs4c6QAAAARnQU1B
        AACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAACGNSURBVHhe7Z3tebS4DobTzDYzhaSP
@@ -5688,9 +5702,30 @@
     </draw:frame>
     <draw:frame draw:style-name="gr11" draw:text-style-name="P17" draw:layer="layout" svg:width="6cm" svg:height="0.569cm" svg:x="10.4cm" svg:y="7.378cm">
      <draw:text-box>
-      <text:p text:style-name="P16"><text:span text:style-name="T9">https://help.github.com/articles/fork-a-repo/</text:span></text:p>
+      <text:p xml:id="id4" text:id="id4" text:style-name="P16"><text:span text:style-name="T9">https://help.github.com/articles/fork-a-repo/</text:span></text:p>
      </draw:text-box>
     </draw:frame>
+    <anim:par presentation:node-type="timing-root">
+     <anim:seq presentation:node-type="main-sequence">
+      <anim:par smil:begin="next">
+       <anim:par smil:begin="0s">
+        <anim:par smil:begin="0s" smil:fill="hold" presentation:node-type="on-click" presentation:preset-class="entrance" presentation:preset-id="ooo-entrance-appear">
+         <anim:set smil:begin="0s" smil:dur="0.001s" smil:fill="hold" smil:targetElement="id3" smil:attributeName="visibility" smil:to="visible"/>
+        </anim:par>
+        <anim:par smil:begin="0s" smil:fill="hold" presentation:node-type="with-previous" presentation:preset-class="entrance" presentation:preset-id="ooo-entrance-appear" presentation:group-id="0">
+         <anim:set smil:begin="0s" smil:dur="0.001s" smil:fill="hold" smil:targetElement="id4" anim:sub-item="text" smil:attributeName="visibility" smil:to="visible"/>
+        </anim:par>
+       </anim:par>
+      </anim:par>
+      <anim:par smil:begin="next">
+       <anim:par smil:begin="0s">
+        <anim:par smil:begin="0s" smil:fill="hold" presentation:node-type="on-click" presentation:preset-class="entrance" presentation:preset-id="ooo-entrance-appear">
+         <anim:set smil:begin="0s" smil:dur="0.001s" smil:fill="hold" smil:targetElement="id5" smil:attributeName="visibility" smil:to="visible"/>
+        </anim:par>
+       </anim:par>
+      </anim:par>
+     </anim:seq>
+    </anim:par>
     <presentation:notes draw:style-name="dp2">
      <draw:page-thumbnail draw:style-name="gr4" draw:layer="layout" svg:width="14.848cm" svg:height="11.136cm" svg:x="3.075cm" svg:y="2.257cm" draw:page-number="13" presentation:class="page"/>
      <draw:frame presentation:style-name="pr5" draw:text-style-name="P22" draw:layer="layout" svg:width="16.799cm" svg:height="13.364cm" svg:x="2.1cm" svg:y="14.107cm" presentation:class="notes" presentation:placeholder="true" presentation:user-transformed="true">
@@ -5705,7 +5740,7 @@
       <text:p><text:span text:style-name="T8">Sync fork</text:span></text:p>
      </draw:text-box>
     </draw:frame>
-    <draw:frame draw:style-name="gr6" draw:text-style-name="P7" draw:layer="layout" svg:width="25.199cm" svg:height="1.637cm" svg:x="1.399cm" svg:y="6.984cm" presentation:class="graphic" presentation:user-transformed="true">
+    <draw:frame draw:style-name="gr6" draw:text-style-name="P7" xml:id="id6" draw:id="id6" draw:layer="layout" svg:width="25.199cm" svg:height="1.637cm" svg:x="1.399cm" svg:y="6.984cm" presentation:class="graphic" presentation:user-transformed="true">
      <draw:image xlink:href="">
       <office:binary-data>iVBORw0KGgoAAAANSUhEUgAAAnYAAAApCAYAAAC4E2TyAAAAAXNSR0IArs4c6QAAAARnQU1B
        AACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAoaSURBVHhe7ZzLdSM5DEU7p87MMXQI
@@ -5847,7 +5882,7 @@
       <text:p/>
      </draw:image>
     </draw:frame>
-    <draw:frame draw:style-name="gr3" draw:text-style-name="P7" draw:layer="layout" svg:width="20.662cm" svg:height="3.6cm" svg:x="3.438cm" svg:y="10.4cm">
+    <draw:frame draw:style-name="gr3" draw:text-style-name="P7" xml:id="id8" draw:id="id8" draw:layer="layout" svg:width="20.662cm" svg:height="3.6cm" svg:x="3.438cm" svg:y="10.4cm">
      <draw:image xlink:href="">
       <office:binary-data>iVBORw0KGgoAAAANSUhEUgAAAncAAABuCAYAAABFjDUYAAAAAXNSR0IArs4c6QAAAARnQU1B
        AACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAACnNSURBVHhe7Z09tmO3sYU9J6VPkTvx
@@ -6056,14 +6091,38 @@
     </draw:frame>
     <draw:frame draw:style-name="gr11" draw:text-style-name="P17" draw:layer="layout" svg:width="6cm" svg:height="0.569cm" svg:x="10.6cm" svg:y="8.631cm">
      <draw:text-box>
-      <text:p text:style-name="P16"><text:span text:style-name="T9">https://help.github.com/articles/fork-a-repo/</text:span></text:p>
+      <text:p xml:id="id7" text:id="id7" text:style-name="P16"><text:span text:style-name="T9">https://help.github.com/articles/fork-a-repo/</text:span></text:p>
      </draw:text-box>
     </draw:frame>
     <draw:frame draw:style-name="gr11" draw:text-style-name="P17" draw:layer="layout" svg:width="6cm" svg:height="0.569cm" svg:x="10.8cm" svg:y="14.031cm">
      <draw:text-box>
-      <text:p text:style-name="P16"><text:span text:style-name="T9">https://help.github.com/articles/fork-a-repo/</text:span></text:p>
+      <text:p xml:id="id9" text:id="id9" text:style-name="P16"><text:span text:style-name="T9">https://help.github.com/articles/fork-a-repo/</text:span></text:p>
      </draw:text-box>
     </draw:frame>
+    <anim:par presentation:node-type="timing-root">
+     <anim:seq presentation:node-type="main-sequence">
+      <anim:par smil:begin="next">
+       <anim:par smil:begin="0s">
+        <anim:par smil:begin="0s" smil:fill="hold" presentation:node-type="on-click" presentation:preset-class="entrance" presentation:preset-id="ooo-entrance-appear">
+         <anim:set smil:begin="0s" smil:dur="0.001s" smil:fill="hold" smil:targetElement="id6" smil:attributeName="visibility" smil:to="visible"/>
+        </anim:par>
+        <anim:par smil:begin="0s" smil:fill="hold" presentation:node-type="with-previous" presentation:preset-class="entrance" presentation:preset-id="ooo-entrance-appear" presentation:group-id="0">
+         <anim:set smil:begin="0s" smil:dur="0.001s" smil:fill="hold" smil:targetElement="id7" anim:sub-item="text" smil:attributeName="visibility" smil:to="visible"/>
+        </anim:par>
+       </anim:par>
+      </anim:par>
+      <anim:par smil:begin="next">
+       <anim:par smil:begin="0s">
+        <anim:par smil:begin="0s" smil:fill="hold" presentation:node-type="on-click" presentation:preset-class="entrance" presentation:preset-id="ooo-entrance-appear">
+         <anim:set smil:begin="0s" smil:dur="0.001s" smil:fill="hold" smil:targetElement="id8" smil:attributeName="visibility" smil:to="visible"/>
+        </anim:par>
+        <anim:par smil:begin="0s" smil:fill="hold" presentation:node-type="with-previous" presentation:preset-class="entrance" presentation:preset-id="ooo-entrance-appear" presentation:group-id="1">
+         <anim:set smil:begin="0s" smil:dur="0.001s" smil:fill="hold" smil:targetElement="id9" anim:sub-item="text" smil:attributeName="visibility" smil:to="visible"/>
+        </anim:par>
+       </anim:par>
+      </anim:par>
+     </anim:seq>
+    </anim:par>
     <presentation:notes draw:style-name="dp2">
      <draw:page-thumbnail draw:style-name="gr4" draw:layer="layout" svg:width="14.848cm" svg:height="11.136cm" svg:x="3.075cm" svg:y="2.257cm" draw:page-number="14" presentation:class="page"/>
      <draw:frame presentation:style-name="pr5" draw:text-style-name="P22" draw:layer="layout" svg:width="16.799cm" svg:height="13.364cm" svg:x="2.1cm" svg:y="14.107cm" presentation:class="notes" presentation:placeholder="true" presentation:user-transformed="true">
@@ -6510,7 +6569,7 @@
       <text:p/>
      </draw:image>
     </draw:frame>
-    <draw:frame draw:style-name="gr3" draw:text-style-name="P7" draw:layer="layout" svg:width="22.02cm" svg:height="1.679cm" svg:x="3.6cm" svg:y="11.521cm">
+    <draw:frame draw:style-name="gr3" draw:text-style-name="P7" xml:id="id10" draw:id="id10" draw:layer="layout" svg:width="22.02cm" svg:height="1.679cm" svg:x="3.6cm" svg:y="11.521cm">
      <draw:image xlink:href="">
       <office:binary-data>iVBORw0KGgoAAAANSUhEUgAAAnUAAAAwCAYAAAB3/YyiAAAAAXNSR0IArs4c6QAAAARnQU1B
        AACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAi0SURBVHhe7duxceM4FMbx62njzZw5
@@ -6567,9 +6626,23 @@
     </draw:frame>
     <draw:frame draw:style-name="gr12" draw:text-style-name="P17" draw:layer="layout" svg:width="6.64cm" svg:height="0.569cm" svg:x="11cm" svg:y="13.231cm">
      <draw:text-box>
-      <text:p text:style-name="P16"><text:span text:style-name="T9">https://help.github.com/articles/syncing-a-fork/</text:span></text:p>
+      <text:p xml:id="id11" text:id="id11" text:style-name="P16"><text:span text:style-name="T9">https://help.github.com/articles/syncing-a-fork/</text:span></text:p>
      </draw:text-box>
     </draw:frame>
+    <anim:par presentation:node-type="timing-root">
+     <anim:seq presentation:node-type="main-sequence">
+      <anim:par smil:begin="next">
+       <anim:par smil:begin="0s">
+        <anim:par smil:begin="0s" smil:fill="hold" presentation:node-type="on-click" presentation:preset-class="entrance" presentation:preset-id="ooo-entrance-appear">
+         <anim:set smil:begin="0s" smil:dur="0.001s" smil:fill="hold" smil:targetElement="id10" smil:attributeName="visibility" smil:to="visible"/>
+        </anim:par>
+        <anim:par smil:begin="0s" smil:fill="hold" presentation:node-type="with-previous" presentation:preset-class="entrance" presentation:preset-id="ooo-entrance-appear" presentation:group-id="0">
+         <anim:set smil:begin="0s" smil:dur="0.001s" smil:fill="hold" smil:targetElement="id11" anim:sub-item="text" smil:attributeName="visibility" smil:to="visible"/>
+        </anim:par>
+       </anim:par>
+      </anim:par>
+     </anim:seq>
+    </anim:par>
     <presentation:notes draw:style-name="dp2">
      <draw:page-thumbnail draw:style-name="gr4" draw:layer="layout" svg:width="14.848cm" svg:height="11.136cm" svg:x="3.075cm" svg:y="2.257cm" draw:page-number="16" presentation:class="page"/>
      <draw:frame presentation:style-name="pr5" draw:text-style-name="P22" draw:layer="layout" svg:width="16.799cm" svg:height="13.364cm" svg:x="2.1cm" svg:y="14.107cm" presentation:class="notes" presentation:placeholder="true" presentation:user-transformed="true">
@@ -6670,7 +6743,7 @@
       <text:p/>
      </draw:image>
     </draw:frame>
-    <draw:frame draw:style-name="gr3" draw:text-style-name="P7" draw:layer="layout" svg:width="23.351cm" svg:height="1.26cm" svg:x="2.687cm" svg:y="6.14cm">
+    <draw:frame draw:style-name="gr3" draw:text-style-name="P7" xml:id="id12" draw:id="id12" draw:layer="layout" svg:width="23.351cm" svg:height="1.26cm" svg:x="2.687cm" svg:y="6.14cm">
      <draw:image xlink:href="">
       <office:binary-data>iVBORw0KGgoAAAANSUhEUgAAAq0AAAAlCAYAAABoINA3AAAAAXNSR0IArs4c6QAAAARnQU1B
        AACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAbKSURBVHhe7dw/chNLEMdx7uSUjIiM
@@ -6711,7 +6784,7 @@
       <text:p/>
      </draw:image>
     </draw:frame>
-    <draw:frame draw:style-name="gr3" draw:text-style-name="P7" draw:layer="layout" svg:width="18.423cm" svg:height="6.1cm" svg:x="5.177cm" svg:y="9.1cm">
+    <draw:frame draw:style-name="gr3" draw:text-style-name="P7" xml:id="id14" draw:id="id14" draw:layer="layout" svg:width="18.423cm" svg:height="6.1cm" svg:x="5.177cm" svg:y="9.1cm">
      <draw:image xlink:href="">
       <office:binary-data>iVBORw0KGgoAAAANSUhEUgAAAdQAAACbCAYAAADbXmphAAAAAXNSR0IArs4c6QAAAARnQU1B
        AACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAACRdSURBVHhe7Z3LleQ6joavP+VKOTLn
@@ -6894,9 +6967,30 @@
     </draw:frame>
     <draw:frame draw:style-name="gr11" draw:text-style-name="P17" draw:layer="layout" svg:width="7.102cm" svg:height="0.569cm" svg:x="10.698cm" svg:y="7.431cm">
      <draw:text-box>
-      <text:p text:style-name="P16"><text:span text:style-name="T9">https://help.github.com/articles/pushing-to-a-remote/</text:span></text:p>
+      <text:p xml:id="id13" text:id="id13" text:style-name="P16"><text:span text:style-name="T9">https://help.github.com/articles/pushing-to-a-remote/</text:span></text:p>
      </draw:text-box>
     </draw:frame>
+    <anim:par presentation:node-type="timing-root">
+     <anim:seq presentation:node-type="main-sequence">
+      <anim:par smil:begin="next">
+       <anim:par smil:begin="0s">
+        <anim:par smil:begin="0s" smil:fill="hold" presentation:node-type="on-click" presentation:preset-class="entrance" presentation:preset-id="ooo-entrance-appear">
+         <anim:set smil:begin="0s" smil:dur="0.001s" smil:fill="hold" smil:targetElement="id12" smil:attributeName="visibility" smil:to="visible"/>
+        </anim:par>
+        <anim:par smil:begin="0s" smil:fill="hold" presentation:node-type="with-previous" presentation:preset-class="entrance" presentation:preset-id="ooo-entrance-appear" presentation:group-id="0">
+         <anim:set smil:begin="0s" smil:dur="0.001s" smil:fill="hold" smil:targetElement="id13" anim:sub-item="text" smil:attributeName="visibility" smil:to="visible"/>
+        </anim:par>
+       </anim:par>
+      </anim:par>
+      <anim:par smil:begin="next">
+       <anim:par smil:begin="0s">
+        <anim:par smil:begin="0s" smil:fill="hold" presentation:node-type="on-click" presentation:preset-class="entrance" presentation:preset-id="ooo-entrance-appear">
+         <anim:set smil:begin="0s" smil:dur="0.001s" smil:fill="hold" smil:targetElement="id14" smil:attributeName="visibility" smil:to="visible"/>
+        </anim:par>
+       </anim:par>
+      </anim:par>
+     </anim:seq>
+    </anim:par>
     <presentation:notes draw:style-name="dp2">
      <draw:page-thumbnail draw:style-name="gr4" draw:layer="layout" svg:width="14.848cm" svg:height="11.136cm" svg:x="3.075cm" svg:y="2.257cm" draw:page-number="17" presentation:class="page"/>
      <draw:frame presentation:style-name="pr5" draw:text-style-name="P22" draw:layer="layout" svg:width="16.799cm" svg:height="13.364cm" svg:x="2.1cm" svg:y="14.107cm" presentation:class="notes" presentation:placeholder="true" presentation:user-transformed="true">
@@ -6997,7 +7091,7 @@
       <text:p/>
      </draw:image>
     </draw:frame>
-    <draw:frame draw:style-name="gr3" draw:text-style-name="P7" draw:layer="layout" svg:width="26.91cm" svg:height="11.827cm" svg:x="0.69cm" svg:y="4.4cm">
+    <draw:frame draw:style-name="gr3" draw:text-style-name="P7" xml:id="id15" draw:id="id15" draw:layer="layout" svg:width="26.91cm" svg:height="11.827cm" svg:x="0.69cm" svg:y="4.4cm">
      <draw:image xlink:href="">
       <office:binary-data>iVBORw0KGgoAAAANSUhEUgAAA/kAAAG/CAYAAAAD2xdUAAAABmJLR0QA/wD/AP+gvaeTAAAA
        CXBIWXMAAA7DAAAOwwHHb6hkAAAAB3RJTUUH4AQXDA8GhT84WgAAIABJREFUeNrs3XtYlXW+
@@ -7825,6 +7919,25 @@
       <text:p/>
      </draw:image>
     </draw:frame>
+    <draw:frame draw:style-name="gr11" draw:text-style-name="P17" draw:layer="layout" svg:width="6.223cm" svg:height="0.569cm" svg:x="10.601cm" svg:y="16.332cm">
+     <draw:text-box>
+      <text:p xml:id="id16" text:id="id16" text:style-name="P16"><text:span text:style-name="T9">https://github.com/leletec/spoon-knife; edited</text:span></text:p>
+     </draw:text-box>
+    </draw:frame>
+    <anim:par presentation:node-type="timing-root">
+     <anim:seq presentation:node-type="main-sequence">
+      <anim:par smil:begin="next">
+       <anim:par smil:begin="0s">
+        <anim:par smil:begin="0s" smil:fill="hold" presentation:node-type="on-click" presentation:preset-class="entrance" presentation:preset-id="ooo-entrance-appear">
+         <anim:set smil:begin="0s" smil:dur="0.001s" smil:fill="hold" smil:targetElement="id15" smil:attributeName="visibility" smil:to="visible"/>
+        </anim:par>
+        <anim:par smil:begin="0s" smil:fill="hold" presentation:node-type="with-previous" presentation:preset-class="entrance" presentation:preset-id="ooo-entrance-appear" presentation:group-id="0">
+         <anim:set smil:begin="0s" smil:dur="0.001s" smil:fill="hold" smil:targetElement="id16" anim:sub-item="text" smil:attributeName="visibility" smil:to="visible"/>
+        </anim:par>
+       </anim:par>
+      </anim:par>
+     </anim:seq>
+    </anim:par>
     <presentation:notes draw:style-name="dp2">
      <draw:page-thumbnail draw:style-name="gr4" draw:layer="layout" svg:width="14.848cm" svg:height="11.136cm" svg:x="3.075cm" svg:y="2.257cm" draw:page-number="18" presentation:class="page"/>
      <draw:frame presentation:style-name="pr5" draw:text-style-name="P22" draw:layer="layout" svg:width="16.799cm" svg:height="13.364cm" svg:x="2.1cm" svg:y="14.107cm" presentation:class="notes" presentation:placeholder="true" presentation:user-transformed="true">
@@ -8860,19 +8973,19 @@
      <draw:text-box>
       <text:list text:style-name="L3">
        <text:list-item>
-        <text:p><text:span text:style-name="T10">Einfache Möglichkeit Text im Web zu formatieren</text:span></text:p>
+        <text:p xml:id="id17" text:id="id17"><text:span text:style-name="T10">Einfache Möglichkeit Text im Web zu formatieren</text:span></text:p>
        </text:list-item>
        <text:list-item>
-        <text:p><text:span text:style-name="T10">Text mit einigen Zusatzzeichen (z.B. </text:span><text:span text:style-name="T11">#</text:span><text:span text:style-name="T10">,</text:span><text:span text:style-name="T11">*</text:span><text:span text:style-name="T10">)</text:span></text:p>
+        <text:p xml:id="id18" text:id="id18"><text:span text:style-name="T10">Text mit einigen Zusatzzeichen (z.B. </text:span><text:span text:style-name="T11">#</text:span><text:span text:style-name="T10">,</text:span><text:span text:style-name="T11">*</text:span><text:span text:style-name="T10">)</text:span></text:p>
        </text:list-item>
        <text:list-item>
-        <text:p><text:span text:style-name="T10">Verwendung in GitHub:</text:span><text:span text:style-name="T10"><text:line-break/></text:span><text:span text:style-name="T10"><text:tab/></text:span><text:span text:style-name="T10">Gists, Kommentare</text:span></text:p>
+        <text:p xml:id="id19" text:id="id19"><text:span text:style-name="T10">Verwendung in GitHub:</text:span><text:span text:style-name="T10"><text:line-break/></text:span><text:span text:style-name="T10"><text:tab/></text:span><text:span text:style-name="T10">Gists, Kommentare</text:span></text:p>
        </text:list-item>
        <text:list-item>
-        <text:p><text:span text:style-name="T10">Bei Dateien:</text:span><text:span text:style-name="T10"><text:line-break/></text:span><text:span text:style-name="T10"><text:tab/></text:span><text:span text:style-name="T10">Dateiendung .md oder .markdown</text:span></text:p>
+        <text:p xml:id="id20" text:id="id20"><text:span text:style-name="T10">Bei Dateien:</text:span><text:span text:style-name="T10"><text:line-break/></text:span><text:span text:style-name="T10"><text:tab/></text:span><text:span text:style-name="T10">Dateiendung .md oder .markdown</text:span></text:p>
        </text:list-item>
        <text:list-item>
-        <text:p><text:span text:style-name="T10">Syntax: siehe </text:span><text:span text:style-name="T11">markdown-syntax.md</text:span></text:p>
+        <text:p xml:id="id21" text:id="id21"><text:span text:style-name="T10">Syntax: siehe </text:span><text:span text:style-name="T11">markdown-syntax.md</text:span></text:p>
        </text:list-item>
       </text:list>
      </draw:text-box>
@@ -8963,6 +9076,45 @@
       <text:p/>
      </draw:image>
     </draw:frame>
+    <anim:par presentation:node-type="timing-root">
+     <anim:seq presentation:node-type="main-sequence">
+      <anim:par smil:begin="next">
+       <anim:par smil:begin="0s">
+        <anim:par smil:begin="0s" smil:fill="hold" presentation:node-type="on-click" presentation:preset-class="entrance" presentation:preset-id="ooo-entrance-appear">
+         <anim:set smil:begin="0s" smil:dur="0.001s" smil:fill="hold" smil:targetElement="id17" anim:sub-item="text" smil:attributeName="visibility" smil:to="visible"/>
+        </anim:par>
+       </anim:par>
+      </anim:par>
+      <anim:par smil:begin="next">
+       <anim:par smil:begin="0s">
+        <anim:par smil:begin="0s" smil:fill="hold" presentation:node-type="on-click" presentation:preset-class="entrance" presentation:preset-id="ooo-entrance-appear">
+         <anim:set smil:begin="0s" smil:dur="0.001s" smil:fill="hold" smil:targetElement="id18" anim:sub-item="text" smil:attributeName="visibility" smil:to="visible"/>
+        </anim:par>
+       </anim:par>
+      </anim:par>
+      <anim:par smil:begin="next">
+       <anim:par smil:begin="0s">
+        <anim:par smil:begin="0s" smil:fill="hold" presentation:node-type="on-click" presentation:preset-class="entrance" presentation:preset-id="ooo-entrance-appear">
+         <anim:set smil:begin="0s" smil:dur="0.001s" smil:fill="hold" smil:targetElement="id19" anim:sub-item="text" smil:attributeName="visibility" smil:to="visible"/>
+        </anim:par>
+       </anim:par>
+      </anim:par>
+      <anim:par smil:begin="next">
+       <anim:par smil:begin="0s">
+        <anim:par smil:begin="0s" smil:fill="hold" presentation:node-type="on-click" presentation:preset-class="entrance" presentation:preset-id="ooo-entrance-appear">
+         <anim:set smil:begin="0s" smil:dur="0.001s" smil:fill="hold" smil:targetElement="id20" anim:sub-item="text" smil:attributeName="visibility" smil:to="visible"/>
+        </anim:par>
+       </anim:par>
+      </anim:par>
+      <anim:par smil:begin="next">
+       <anim:par smil:begin="0s">
+        <anim:par smil:begin="0s" smil:fill="hold" presentation:node-type="on-click" presentation:preset-class="entrance" presentation:preset-id="ooo-entrance-appear">
+         <anim:set smil:begin="0s" smil:dur="0.001s" smil:fill="hold" smil:targetElement="id21" anim:sub-item="text" smil:attributeName="visibility" smil:to="visible"/>
+        </anim:par>
+       </anim:par>
+      </anim:par>
+     </anim:seq>
+    </anim:par>
     <presentation:notes draw:style-name="dp2">
      <draw:page-thumbnail draw:style-name="gr4" draw:layer="layout" svg:width="14.848cm" svg:height="11.136cm" svg:x="3.075cm" svg:y="2.257cm" draw:page-number="20" presentation:class="page"/>
      <draw:frame presentation:style-name="pr5" draw:text-style-name="P22" draw:layer="layout" svg:width="16.799cm" svg:height="13.364cm" svg:x="2.1cm" svg:y="14.107cm" presentation:class="notes" presentation:placeholder="true" presentation:user-transformed="true">
@@ -8981,19 +9133,19 @@
      <draw:text-box>
       <text:list text:style-name="L3">
        <text:list-item>
-        <text:p><text:span text:style-name="T10">Zum Nachverfolgen von Aufgaben, Verbesserungen und Bugs eines Projekts</text:span></text:p>
+        <text:p xml:id="id22" text:id="id22"><text:span text:style-name="T10">Zum Nachverfolgen von Aufgaben, Verbesserungen und Bugs eines Projekts</text:span></text:p>
        </text:list-item>
        <text:list-item>
-        <text:p><text:span text:style-name="T10">Aufbau</text:span></text:p>
+        <text:p xml:id="id23" text:id="id23"><text:span text:style-name="T10">Aufbau</text:span></text:p>
         <text:list>
          <text:list-item>
-          <text:p><text:span text:style-name="T10">Titel und Beschreibung beschreiben das Issue</text:span></text:p>
+          <text:p xml:id="id24" text:id="id24"><text:span text:style-name="T10">Titel und Beschreibung beschreiben das Issue</text:span></text:p>
          </text:list-item>
          <text:list-item>
-          <text:p><text:span text:style-name="T10">Labels mit color-coding zur Kategorisierung</text:span></text:p>
+          <text:p xml:id="id25" text:id="id25"><text:span text:style-name="T10">Labels mit color-coding zur Kategorisierung</text:span></text:p>
          </text:list-item>
          <text:list-item>
-          <text:p><text:span text:style-name="T10">Jeder mit Zugriff auf die Repository kann Kommentare dazu schreiben</text:span></text:p>
+          <text:p xml:id="id26" text:id="id26"><text:span text:style-name="T10">Jeder mit Zugriff auf die Repository kann Kommentare dazu schreiben</text:span></text:p>
          </text:list-item>
         </text:list>
        </text:list-item>
@@ -9086,6 +9238,45 @@
       <text:p/>
      </draw:image>
     </draw:frame>
+    <anim:par presentation:node-type="timing-root">
+     <anim:seq presentation:node-type="main-sequence">
+      <anim:par smil:begin="next">
+       <anim:par smil:begin="0s">
+        <anim:par smil:begin="0s" smil:fill="hold" presentation:node-type="on-click" presentation:preset-class="entrance" presentation:preset-id="ooo-entrance-appear">
+         <anim:set smil:begin="0s" smil:dur="0.001s" smil:fill="hold" smil:targetElement="id22" anim:sub-item="text" smil:attributeName="visibility" smil:to="visible"/>
+        </anim:par>
+       </anim:par>
+      </anim:par>
+      <anim:par smil:begin="next">
+       <anim:par smil:begin="0s">
+        <anim:par smil:begin="0s" smil:fill="hold" presentation:node-type="on-click" presentation:preset-class="entrance" presentation:preset-id="ooo-entrance-appear">
+         <anim:set smil:begin="0s" smil:dur="0.001s" smil:fill="hold" smil:targetElement="id23" anim:sub-item="text" smil:attributeName="visibility" smil:to="visible"/>
+        </anim:par>
+       </anim:par>
+      </anim:par>
+      <anim:par smil:begin="next">
+       <anim:par smil:begin="0s">
+        <anim:par smil:begin="0s" smil:fill="hold" presentation:node-type="on-click" presentation:preset-class="entrance" presentation:preset-id="ooo-entrance-appear">
+         <anim:set smil:begin="0s" smil:dur="0.001s" smil:fill="hold" smil:targetElement="id24" anim:sub-item="text" smil:attributeName="visibility" smil:to="visible"/>
+        </anim:par>
+       </anim:par>
+      </anim:par>
+      <anim:par smil:begin="next">
+       <anim:par smil:begin="0s">
+        <anim:par smil:begin="0s" smil:fill="hold" presentation:node-type="on-click" presentation:preset-class="entrance" presentation:preset-id="ooo-entrance-appear">
+         <anim:set smil:begin="0s" smil:dur="0.001s" smil:fill="hold" smil:targetElement="id25" anim:sub-item="text" smil:attributeName="visibility" smil:to="visible"/>
+        </anim:par>
+       </anim:par>
+      </anim:par>
+      <anim:par smil:begin="next">
+       <anim:par smil:begin="0s">
+        <anim:par smil:begin="0s" smil:fill="hold" presentation:node-type="on-click" presentation:preset-class="entrance" presentation:preset-id="ooo-entrance-appear">
+         <anim:set smil:begin="0s" smil:dur="0.001s" smil:fill="hold" smil:targetElement="id26" anim:sub-item="text" smil:attributeName="visibility" smil:to="visible"/>
+        </anim:par>
+       </anim:par>
+      </anim:par>
+     </anim:seq>
+    </anim:par>
     <presentation:notes draw:style-name="dp2">
      <office:forms form:automatic-focus="false" form:apply-design-mode="false"/>
      <draw:page-thumbnail draw:style-name="gr4" draw:layer="layout" svg:width="14.848cm" svg:height="11.136cm" svg:x="3.075cm" svg:y="2.257cm" draw:page-number="21" presentation:class="page"/>
@@ -9105,16 +9296,16 @@
      <draw:text-box>
       <text:list text:style-name="L3">
        <text:list-item>
-        <text:p><text:span text:style-name="T10">Milestones</text:span></text:p>
+        <text:p xml:id="id27" text:id="id27"><text:span text:style-name="T10">Milestones</text:span></text:p>
         <text:list>
          <text:list-item>
-          <text:p><text:span text:style-name="T10">„</text:span><text:span text:style-name="T10">Kontainer“ für Issues</text:span></text:p>
+          <text:p xml:id="id28" text:id="id28"><text:span text:style-name="T10">„</text:span><text:span text:style-name="T10">Kontainer“ für Issues</text:span></text:p>
          </text:list-item>
          <text:list-item>
-          <text:p><text:span text:style-name="T10">Fasst Issues zusammen</text:span></text:p>
+          <text:p xml:id="id29" text:id="id29"><text:span text:style-name="T10">Fasst Issues zusammen</text:span></text:p>
          </text:list-item>
          <text:list-item>
-          <text:p><text:span text:style-name="T10">Bsp.: </text:span><text:span text:style-name="T11">„Beta Launch“,</text:span><text:span text:style-name="T10"> </text:span><text:span text:style-name="T11">„Neues Design“,</text:span><text:span text:style-name="T11"><text:line-break/></text:span><text:span text:style-name="T11">„Aufgaben für Juni“</text:span></text:p>
+          <text:p xml:id="id30" text:id="id30"><text:span text:style-name="T10">Bsp.: </text:span><text:span text:style-name="T11">„Beta Launch“,</text:span><text:span text:style-name="T10"> </text:span><text:span text:style-name="T11">„Neues Design“,</text:span><text:span text:style-name="T11"><text:line-break/></text:span><text:span text:style-name="T11">„Aufgaben für Juni“</text:span></text:p>
          </text:list-item>
         </text:list>
        </text:list-item>
@@ -9207,6 +9398,26 @@
       <text:p/>
      </draw:image>
     </draw:frame>
+    <anim:par presentation:node-type="timing-root">
+     <anim:seq presentation:node-type="main-sequence">
+      <anim:par smil:begin="next">
+       <anim:par smil:begin="0s">
+        <anim:par smil:begin="0s" smil:fill="hold" presentation:node-type="on-click" presentation:preset-class="entrance" presentation:preset-id="ooo-entrance-appear">
+         <anim:set smil:begin="0s" smil:dur="0.001s" smil:fill="hold" smil:targetElement="id27" anim:sub-item="text" smil:attributeName="visibility" smil:to="visible"/>
+        </anim:par>
+        <anim:par smil:begin="0s" smil:fill="hold" presentation:node-type="with-previous" presentation:preset-class="entrance" presentation:preset-id="ooo-entrance-appear">
+         <anim:set smil:begin="0s" smil:dur="0.001s" smil:fill="hold" smil:targetElement="id28" anim:sub-item="text" smil:attributeName="visibility" smil:to="visible"/>
+        </anim:par>
+        <anim:par smil:begin="0s" smil:fill="hold" presentation:node-type="with-previous" presentation:preset-class="entrance" presentation:preset-id="ooo-entrance-appear">
+         <anim:set smil:begin="0s" smil:dur="0.001s" smil:fill="hold" smil:targetElement="id29" anim:sub-item="text" smil:attributeName="visibility" smil:to="visible"/>
+        </anim:par>
+        <anim:par smil:begin="0s" smil:fill="hold" presentation:node-type="with-previous" presentation:preset-class="entrance" presentation:preset-id="ooo-entrance-appear">
+         <anim:set smil:begin="0s" smil:dur="0.001s" smil:fill="hold" smil:targetElement="id30" anim:sub-item="text" smil:attributeName="visibility" smil:to="visible"/>
+        </anim:par>
+       </anim:par>
+      </anim:par>
+     </anim:seq>
+    </anim:par>
     <presentation:notes draw:style-name="dp2">
      <office:forms form:automatic-focus="false" form:apply-design-mode="false"/>
      <draw:page-thumbnail draw:style-name="gr4" draw:layer="layout" svg:width="14.848cm" svg:height="11.136cm" svg:x="3.075cm" svg:y="2.257cm" draw:page-number="22" presentation:class="page"/>
@@ -9226,13 +9437,13 @@
      <draw:text-box>
       <text:list text:style-name="L3">
        <text:list-item>
-        <text:p><text:span text:style-name="T10">Assignees („Bevollmächtigte“)</text:span></text:p>
+        <text:p xml:id="id31" text:id="id31"><text:span text:style-name="T10">Assignees („Bevollmächtigte“)</text:span></text:p>
         <text:list>
          <text:list-item>
-          <text:p><text:span text:style-name="T10">Jedes Issue kann einen haben</text:span></text:p>
+          <text:p xml:id="id32" text:id="id32"><text:span text:style-name="T10">Jedes Issue kann einen haben</text:span></text:p>
          </text:list-item>
          <text:list-item>
-          <text:p><text:span text:style-name="T10">Kümmert sich um den Fortschritt in dem Issue</text:span></text:p>
+          <text:p xml:id="id33" text:id="id33"><text:span text:style-name="T10">Kümmert sich um den Fortschritt in dem Issue</text:span></text:p>
          </text:list-item>
         </text:list>
        </text:list-item>
@@ -9325,6 +9536,23 @@
       <text:p/>
      </draw:image>
     </draw:frame>
+    <anim:par presentation:node-type="timing-root">
+     <anim:seq presentation:node-type="main-sequence">
+      <anim:par smil:begin="next">
+       <anim:par smil:begin="0s">
+        <anim:par smil:begin="0s" smil:fill="hold" presentation:node-type="on-click" presentation:preset-class="entrance" presentation:preset-id="ooo-entrance-appear">
+         <anim:set smil:begin="0s" smil:dur="0.001s" smil:fill="hold" smil:targetElement="id31" anim:sub-item="text" smil:attributeName="visibility" smil:to="visible"/>
+        </anim:par>
+        <anim:par smil:begin="0s" smil:fill="hold" presentation:node-type="with-previous" presentation:preset-class="entrance" presentation:preset-id="ooo-entrance-appear">
+         <anim:set smil:begin="0s" smil:dur="0.001s" smil:fill="hold" smil:targetElement="id32" anim:sub-item="text" smil:attributeName="visibility" smil:to="visible"/>
+        </anim:par>
+        <anim:par smil:begin="0s" smil:fill="hold" presentation:node-type="with-previous" presentation:preset-class="entrance" presentation:preset-id="ooo-entrance-appear">
+         <anim:set smil:begin="0s" smil:dur="0.001s" smil:fill="hold" smil:targetElement="id33" anim:sub-item="text" smil:attributeName="visibility" smil:to="visible"/>
+        </anim:par>
+       </anim:par>
+      </anim:par>
+     </anim:seq>
+    </anim:par>
     <presentation:notes draw:style-name="dp2">
      <office:forms form:automatic-focus="false" form:apply-design-mode="false"/>
      <draw:page-thumbnail draw:style-name="gr4" draw:layer="layout" svg:width="14.848cm" svg:height="11.136cm" svg:x="3.075cm" svg:y="2.257cm" draw:page-number="23" presentation:class="page"/>
@@ -9344,10 +9572,10 @@
      <draw:text-box>
       <text:list text:style-name="L3">
        <text:list-item>
-        <text:p><text:span text:style-name="T10">Eine Möglichkeit, seine Arbeit mit anderen zu teilen</text:span></text:p>
+        <text:p xml:id="id34" text:id="id34"><text:span text:style-name="T10">Eine Möglichkeit, seine Arbeit mit anderen zu teilen</text:span></text:p>
        </text:list-item>
        <text:list-item>
-        <text:p><text:span text:style-name="T10">Jeder Gist ist eine Git Repository, mit all ihren Möglichkeiten (s. oben)</text:span></text:p>
+        <text:p xml:id="id35" text:id="id35"><text:span text:style-name="T10">Jeder Gist ist eine Git Repository, mit all ihren Möglichkeiten (s. oben)</text:span></text:p>
        </text:list-item>
       </text:list>
      </draw:text-box>
@@ -9438,6 +9666,24 @@
       <text:p/>
      </draw:image>
     </draw:frame>
+    <anim:par presentation:node-type="timing-root">
+     <anim:seq presentation:node-type="main-sequence">
+      <anim:par smil:begin="next">
+       <anim:par smil:begin="0s">
+        <anim:par smil:begin="0s" smil:fill="hold" presentation:node-type="on-click" presentation:preset-class="entrance" presentation:preset-id="ooo-entrance-appear">
+         <anim:set smil:begin="0s" smil:dur="0.001s" smil:fill="hold" smil:targetElement="id34" anim:sub-item="text" smil:attributeName="visibility" smil:to="visible"/>
+        </anim:par>
+       </anim:par>
+      </anim:par>
+      <anim:par smil:begin="next">
+       <anim:par smil:begin="0s">
+        <anim:par smil:begin="0s" smil:fill="hold" presentation:node-type="on-click" presentation:preset-class="entrance" presentation:preset-id="ooo-entrance-appear">
+         <anim:set smil:begin="0s" smil:dur="0.001s" smil:fill="hold" smil:targetElement="id35" anim:sub-item="text" smil:attributeName="visibility" smil:to="visible"/>
+        </anim:par>
+       </anim:par>
+      </anim:par>
+     </anim:seq>
+    </anim:par>
     <presentation:notes draw:style-name="dp2">
      <office:forms form:automatic-focus="false" form:apply-design-mode="false"/>
      <draw:page-thumbnail draw:style-name="gr4" draw:layer="layout" svg:width="14.848cm" svg:height="11.136cm" svg:x="3.075cm" svg:y="2.257cm" draw:page-number="24" presentation:class="page"/>
@@ -9457,24 +9703,24 @@
      <draw:text-box>
       <text:list text:style-name="L3">
        <text:list-item>
-        <text:p><text:span text:style-name="T10">Public gists</text:span></text:p>
+        <text:p xml:id="id36" text:id="id36"><text:span text:style-name="T10">Public gists</text:span></text:p>
         <text:list>
          <text:list-item>
-          <text:p><text:span text:style-name="T10">Sind in der „Discover“ Sektion zu finden</text:span></text:p>
+          <text:p xml:id="id37" text:id="id37"><text:span text:style-name="T10">Sind in der „Discover“ Sektion zu finden</text:span></text:p>
          </text:list-item>
          <text:list-item>
-          <text:p><text:span text:style-name="T10">Können gesucht und gefunden werden</text:span></text:p>
+          <text:p xml:id="id38" text:id="id38"><text:span text:style-name="T10">Können gesucht und gefunden werden</text:span></text:p>
          </text:list-item>
         </text:list>
        </text:list-item>
        <text:list-item>
-        <text:p><text:span text:style-name="T10">Secret gists</text:span></text:p>
+        <text:p xml:id="id39" text:id="id39"><text:span text:style-name="T10">Secret gists</text:span></text:p>
         <text:list>
          <text:list-item>
-          <text:p><text:span text:style-name="T10">Nicht in „Discover“</text:span><text:span text:style-name="T10"><text:line-break/></text:span><text:span text:style-name="T10">können nicht gefunden werden</text:span></text:p>
+          <text:p xml:id="id40" text:id="id40"><text:span text:style-name="T10">Nicht in „Discover“</text:span><text:span text:style-name="T10"><text:line-break/></text:span><text:span text:style-name="T10">können nicht gefunden werden</text:span></text:p>
          </text:list-item>
          <text:list-item>
-          <text:p><text:span text:style-name="T10">Geeignet für eine To-Do-Liste oder um schnell etwas aufzuschreiben</text:span></text:p>
+          <text:p xml:id="id41" text:id="id41"><text:span text:style-name="T10">Geeignet für eine To-Do-Liste oder um schnell etwas aufzuschreiben</text:span></text:p>
          </text:list-item>
         </text:list>
        </text:list-item>
@@ -9567,6 +9813,36 @@
       <text:p/>
      </draw:image>
     </draw:frame>
+    <anim:par presentation:node-type="timing-root">
+     <anim:seq presentation:node-type="main-sequence">
+      <anim:par smil:begin="next">
+       <anim:par smil:begin="0s">
+        <anim:par smil:begin="0s" smil:fill="hold" presentation:node-type="on-click" presentation:preset-class="entrance" presentation:preset-id="ooo-entrance-appear">
+         <anim:set smil:begin="0s" smil:dur="0.001s" smil:fill="hold" smil:targetElement="id36" anim:sub-item="text" smil:attributeName="visibility" smil:to="visible"/>
+        </anim:par>
+        <anim:par smil:begin="0s" smil:fill="hold" presentation:node-type="with-previous" presentation:preset-class="entrance" presentation:preset-id="ooo-entrance-appear">
+         <anim:set smil:begin="0s" smil:dur="0.001s" smil:fill="hold" smil:targetElement="id37" anim:sub-item="text" smil:attributeName="visibility" smil:to="visible"/>
+        </anim:par>
+        <anim:par smil:begin="0s" smil:fill="hold" presentation:node-type="with-previous" presentation:preset-class="entrance" presentation:preset-id="ooo-entrance-appear">
+         <anim:set smil:begin="0s" smil:dur="0.001s" smil:fill="hold" smil:targetElement="id38" anim:sub-item="text" smil:attributeName="visibility" smil:to="visible"/>
+        </anim:par>
+       </anim:par>
+      </anim:par>
+      <anim:par smil:begin="next">
+       <anim:par smil:begin="0s">
+        <anim:par smil:begin="0s" smil:fill="hold" presentation:node-type="on-click" presentation:preset-class="entrance" presentation:preset-id="ooo-entrance-appear">
+         <anim:set smil:begin="0s" smil:dur="0.001s" smil:fill="hold" smil:targetElement="id39" anim:sub-item="text" smil:attributeName="visibility" smil:to="visible"/>
+        </anim:par>
+        <anim:par smil:begin="0s" smil:fill="hold" presentation:node-type="with-previous" presentation:preset-class="entrance" presentation:preset-id="ooo-entrance-appear">
+         <anim:set smil:begin="0s" smil:dur="0.001s" smil:fill="hold" smil:targetElement="id40" anim:sub-item="text" smil:attributeName="visibility" smil:to="visible"/>
+        </anim:par>
+        <anim:par smil:begin="0s" smil:fill="hold" presentation:node-type="with-previous" presentation:preset-class="entrance" presentation:preset-id="ooo-entrance-appear">
+         <anim:set smil:begin="0s" smil:dur="0.001s" smil:fill="hold" smil:targetElement="id41" anim:sub-item="text" smil:attributeName="visibility" smil:to="visible"/>
+        </anim:par>
+       </anim:par>
+      </anim:par>
+     </anim:seq>
+    </anim:par>
     <presentation:notes draw:style-name="dp2">
      <office:forms form:automatic-focus="false" form:apply-design-mode="false"/>
      <draw:page-thumbnail draw:style-name="gr4" draw:layer="layout" svg:width="14.848cm" svg:height="11.136cm" svg:x="3.075cm" svg:y="2.257cm" draw:page-number="25" presentation:class="page"/>
@@ -9586,13 +9862,13 @@
      <draw:text-box>
       <text:list text:style-name="L3">
        <text:list-item>
-        <text:p><text:span text:style-name="T10">Anonymous gists</text:span></text:p>
+        <text:p xml:id="id42" text:id="id42"><text:span text:style-name="T10">Anonymous gists</text:span></text:p>
         <text:list>
          <text:list-item>
-          <text:p><text:span text:style-name="T10">Entstehen, wenn man einen Gist erstellt, ohne sich bei GitHub eizuloggen</text:span></text:p>
+          <text:p xml:id="id43" text:id="id43"><text:span text:style-name="T10">Entstehen, wenn man einen Gist erstellt, ohne sich bei GitHub eizuloggen</text:span></text:p>
          </text:list-item>
          <text:list-item>
-          <text:p><text:span text:style-name="T10">Können public oder secret sein</text:span></text:p>
+          <text:p xml:id="id44" text:id="id44"><text:span text:style-name="T10">Können public oder secret sein</text:span></text:p>
          </text:list-item>
         </text:list>
        </text:list-item>
@@ -9685,6 +9961,23 @@
       <text:p/>
      </draw:image>
     </draw:frame>
+    <anim:par presentation:node-type="timing-root">
+     <anim:seq presentation:node-type="main-sequence">
+      <anim:par smil:begin="next">
+       <anim:par smil:begin="0s">
+        <anim:par smil:begin="0s" smil:fill="hold" presentation:node-type="on-click" presentation:preset-class="entrance" presentation:preset-id="ooo-entrance-appear">
+         <anim:set smil:begin="0s" smil:dur="0.001s" smil:fill="hold" smil:targetElement="id42" anim:sub-item="text" smil:attributeName="visibility" smil:to="visible"/>
+        </anim:par>
+        <anim:par smil:begin="0s" smil:fill="hold" presentation:node-type="with-previous" presentation:preset-class="entrance" presentation:preset-id="ooo-entrance-appear">
+         <anim:set smil:begin="0s" smil:dur="0.001s" smil:fill="hold" smil:targetElement="id43" anim:sub-item="text" smil:attributeName="visibility" smil:to="visible"/>
+        </anim:par>
+        <anim:par smil:begin="0s" smil:fill="hold" presentation:node-type="with-previous" presentation:preset-class="entrance" presentation:preset-id="ooo-entrance-appear">
+         <anim:set smil:begin="0s" smil:dur="0.001s" smil:fill="hold" smil:targetElement="id44" anim:sub-item="text" smil:attributeName="visibility" smil:to="visible"/>
+        </anim:par>
+       </anim:par>
+      </anim:par>
+     </anim:seq>
+    </anim:par>
     <presentation:notes draw:style-name="dp2">
      <office:forms form:automatic-focus="false" form:apply-design-mode="false"/>
      <draw:page-thumbnail draw:style-name="gr4" draw:layer="layout" svg:width="14.848cm" svg:height="11.136cm" svg:x="3.075cm" svg:y="2.257cm" draw:page-number="26" presentation:class="page"/>
