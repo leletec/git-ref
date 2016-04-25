@@ -1,18 +1,21 @@
 # Markdown-Testdatei
 ====================
 
-Überschriften:
+Ãœberschriften:
 ------------------
-# Das ist eine Überschrift
-## Das ist eine Überschrift
-###### Das ist eine Überschrift
+# Das ist eine Ãœberschrift
+## Das ist eine Ãœberschrift
+###### Das ist eine Ãœberschrift
 
 Betonungen
 ---------------
 *Dieser Text ist kursiv gedruckt.*   _Dieser auch._
+
 **Dieser Text ist fett gedruckt.**   __Dieser auch.__
+
 ~~Dieser Text wird durchgestrichen.~~   <del>Dieser auch.</del>
-*Die ~~beiden~~ drei Möglichkeiten __können__ auch kombiniert werden*
+
+*Die ~~beiden~~ drei MÃ¶glichkeiten __kÃ¶nnen__ auch kombiniert werden*
 
 Listen:
 ---------
@@ -26,17 +29,20 @@ Listen:
 Links:
 --------
 http://github.com/okitec - automatisch generiert
+
 [Meine Seite auf GitHub](http://github.com/leletec)
 		
 Zitate:
 --------
 Wie schon viele weise Menschen sagten:
 > Zitate
+
 > sind toll.
 		
 Code:
 -------
-An dieser Stelle könnte man auch etwas `code` schreiben!
+An dieser Stelle kÃ¶nnte man auch etwas `code` schreiben!
+
 ```batch
 @echo off
 title Das ist eine Batch Datei
@@ -58,20 +64,21 @@ pause >nul
     }
 
 
-Tast Lists:
+Task Lists:
 -------------
-- [x] @mention, **Formatierungen** etc wird hier unterstützt.
+- [x] @mention, **Formatierungen** etc wird hier unterstÃ¼tzt.
 - [x] Man braucht irgendeine Form von Listen-Syntax.
 - [x] Das ist erledigt.
 - [ ] Das nicht.
 
 Tabellen:
 -----------
-Spalte 1 | Spalte 2
----------- | -----------
-Inhalt Spalte 1 | Inhalt Spalte 2
-foo | bar
+Spalte 1 | Spalte 2 | Banane
+---------- | ----------- | ---------
+Inhalt Spalte 1 | Inhalt Spalte 2 
+foo | bar | .
+w | t | f 
 
 Emojis:
 ---------
-Ja, die werden auch unterstützt :+1: :smile:
+Ja, die werden auch unterstÃ¼tzt :+1: :smile:
