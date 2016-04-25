@@ -146,7 +146,7 @@ Updatet alle *Remote Tracking Branches*.
 Misc
 ----
 
-Auch hilfreich: Tags, Stashing
+Auch hilfreich: Tags, Stashing, Rebasing
 
 .gitignore
 ----------
