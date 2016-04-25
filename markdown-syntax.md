@@ -41,6 +41,7 @@ http://github.com/okitec - automatisch generiert
 Zitate
 ------
 Wie schon viele weise Menschen sagten:
+
 > Zitate
 
 > sind toll.
@@ -69,6 +70,20 @@ pause >nul
       }
     }
 
+@mentions 
+---------
+Man kann andere Benutzer mithilfe von @mentions einfach auf ein Kommentar oder ein Issue aufmerksam machen.
+
+Die Syntax hierfür ist `@username` also z.B. `@leletec`.
+
+Bei Issues wird zudem häufig häufig die Syntax `/cc` verwendet um Benutzer miteinzubeziehen.
+Also z.B. `/cc @okitec @dieechtenilente`
+
+References
+----------
+Will man sich in seinem Kommentar o.ä. auf ein *Commit* oder ein *Issue* beziehen so kann man dies durch ein Hashtag ausdrücken.
+Z.B. Ich hätte eine Anmerkung zu Commit #1 ...
+
 
 Task Lists
 ----------
@@ -82,7 +97,7 @@ Tabellen
 Spalte 1 | Spalte 2 | Banane
 -------- | -------- | ------
 Inhalt Spalte 1 | Inhalt Spalte 2 
-foo | bar | .
+foo | bar | ...
 w | t | f 
 
 Emojis
