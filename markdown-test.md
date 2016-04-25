@@ -1,14 +1,14 @@
 # Markdown-Testdatei
 ====================
 
-Überschriften:
-------------------
+Überschriften
+-------------
 # Das ist eine Überschrift
 ## Das ist eine Überschrift
 ###### Das ist eine Überschrift
 
 Betonungen
----------------
+----------
 *Dieser Text ist kursiv gedruckt.*   _Dieser auch._
 
 **Dieser Text ist fett gedruckt.**   __Dieser auch.__
@@ -17,8 +17,14 @@ Betonungen
 
 *Die ~~beiden~~ drei Möglichkeiten __können__ auch kombiniert werden*
 
-Listen:
----------
+Escape
+------
+Will man, dass die spezielle Bedeutung eines Zeichens aufgehoben wird, "escapet" man es:
+
+Wenn man einen Text in Markdown fett schreiben will schreibt man das so: \*\*fetter Text\*\*
+
+Listen
+------
 1. Ungeordnet:
     * mit *
     * mit -
@@ -26,21 +32,21 @@ Listen:
         - ...
 2. Geordnet: mit Nummern
 		
-Links:
---------
+Links
+-----
 http://github.com/okitec - automatisch generiert
 
 [Meine Seite auf GitHub](http://github.com/leletec)
 		
-Zitate:
---------
+Zitate
+------
 Wie schon viele weise Menschen sagten:
 > Zitate
 
 > sind toll.
 		
-Code:
--------
+Code
+----
 An dieser Stelle könnte man auch etwas `code` schreiben!
 
 ```batch
@@ -64,21 +70,21 @@ pause >nul
     }
 
 
-Task Lists:
--------------
+Task Lists
+----------
 - [x] @mention, **Formatierungen** etc wird hier unterstützt.
 - [x] Man braucht irgendeine Form von Listen-Syntax.
 - [x] Das ist erledigt.
 - [ ] Das nicht.
 
-Tabellen:
------------
+Tabellen
+--------
 Spalte 1 | Spalte 2 | Banane
----------- | ----------- | ---------
+-------- | -------- | ------
 Inhalt Spalte 1 | Inhalt Spalte 2 
 foo | bar | .
 w | t | f 
 
-Emojis:
----------
+Emojis
+------
 Ja, die werden auch unterstützt :+1: :smile:
