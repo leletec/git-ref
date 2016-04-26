@@ -7,6 +7,7 @@
 *.class
 
 # generated files and config
+# replace "client" with your project folder's name
 client/bin/
 client/gen/
 client/local.properties
