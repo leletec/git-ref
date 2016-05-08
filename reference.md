@@ -101,7 +101,7 @@ Verwirft alle Änderungen an den genannten Dateien seit dem letzten Commit.
 	git revert [commit]
 
 Erstellt einen neuen Commit, der die Änderungen des genannten wieder rückgängig macht
-(sozusagen eine Anti-Commit).
+(sozusagen ein Anti-Commit).
 
 Branching
 ---------
