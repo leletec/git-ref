@@ -38,7 +38,7 @@ Status und Geschichte
 	git status
 
 Gibt Informationen zur Repo aus: nicht getrackte Dateien, geänderte Dateien,
-Dateien im *Index*.
+Dateien im [Index](#glossar).
 
 	git log
 
@@ -46,19 +46,19 @@ Gibt die Commit-History der ganzen Repo oder der angegebenen Dateien aus.
 
 	git log -p
 
-Gibt die Commit-History inklusive aller Diffs/Patches zwischen den Versionen aus.
+Gibt die Commit-History inklusive aller [Diffs/Patches](#glossar) zwischen den Versionen aus.
 
 	git diff commit1 commit2
 
-Gibt die Änderungen zwischen den beiden Commits aus.
+Gibt die Änderungen zwischen den beiden [Commits](#glossar) aus.
 
 	git diff
 
-Gibt die Änderungen zwischen dem Working Tree und dem Index aus.
+Gibt die Änderungen zwischen dem [Working Tree](#glossar) und dem Index aus.
 
 	git show HEAD
 
-Zeigt die Änderungen im letzten Commit (`HEAD`).
+Zeigt die Änderungen im letzten Commit ([`HEAD`](#glossar)).
 
 	gitk
 
@@ -69,30 +69,30 @@ Stellt die Commit-History graphisch dar (fancy GUI-Programm).
 
 	git add
 
-Fügt angegebene Dateien in den *Index* ein.
+Fügt angegebene Dateien in den [Index](#glossar) ein.
 
 	git commit [-m "commit message"]
 
-Macht die Dateien im *Index* zu einem *Commit*.
+Macht die Dateien im [Index](#glossar) zu einem [Commit](#glossar).
 
 	git commit --amend
 
-Erlaubt eine Änderung des letzten Commits, falls man gederpt hat.
+Erlaubt eine Änderung des letzten [Commits](#glossar), falls man gederpt hat.
 
 	git commit --amend --reset-author
 
-Setzt den Autor des letzten Commits zu den neu eingetragenen Namen.
+Setzt den Autor des letzten [Commits](#glossar) zu den neu eingetragenen Namen.
 
 Änderungen rückgängig machen
 ----------------------------
 
 	git reset
 
-Verwirft alle Änderungen im Index. Der Working Tree wird nicht angetastet.
+Verwirft alle Änderungen im [Index](#glossar). Der [Working Tree](#glossar) wird nicht angetastet.
 
 	git reset --hard HEAD
 
-Verwirft alle Änderungen im Index und im Working Tree seit dem letzten Commit.
+Verwirft alle Änderungen im Index und im Working Tree seit dem letzten [Commit](#glossar).
 
 	git checkout -- <datei> <datei> ...
 
@@ -108,7 +108,7 @@ Branching
 
 	git branch
 
-Zeigt eine Liste aller Branches.
+Zeigt eine Liste aller [Branches](#glossar).
 
 	git branch <branchname>
 
@@ -132,25 +132,25 @@ Dann hat man sie lokal. Sie ist vollkommen gleichwertig zum Original.
 
 	git remote -v
 
-Listet alle *Remote Tracking Branches* auf.
+Listet alle [Remote Tracking Branches](#glossar) auf.
 
 	git remote add origin https://github.com/USERNAME/REPO.git
 
-Erstellt eine *Remote Tracking Branch* mit dem Namen "origin" (üblicher Name
+Erstellt eine Remote Tracking Branch mit dem Namen "origin" (üblicher Name
 für die Repo, die man im Internet hat).
 
 	git push [origin] [branch]
 
-Schickt die lokalen Commits in der Branch (Default: master) zum origin.
+Schickt die lokalen Commits in der Branch (Default: `master`) zum `origin`.
 
 	git pull [origin] [branch]
 
 Holt die Änderungen an der Repo im Netz wieder in die lokale Repo.
-Eigentlich einne Kurzschreibweise für `git fetch; git merge FETCH_HEAD`.
+Eigentlich eine Kurzschreibweise für `git fetch; git merge FETCH_HEAD`.
 
 	git fetch
 
-Updatet alle *Remote Tracking Branches*. Braucht man meistens nicht,
+Updatet alle [Remote Tracking Branches](#glossar). Braucht man meistens nicht,
 man sollte lieber `git pull` verwenden.
 
 Misc
