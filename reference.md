@@ -56,6 +56,10 @@ Gibt die Änderungen zwischen den beiden Commits aus.
 
 Gibt die Änderungen zwischen dem Working Tree und dem Index aus.
 
+	git show HEAD
+
+Zeigt die Änderungen im letzten Commit (`HEAD`).
+
 	gitk
 
 Stellt die Commit-History graphisch dar (fancy GUI-Programm).
@@ -146,7 +150,8 @@ Eigentlich einne Kurzschreibweise für `git fetch; git merge FETCH_HEAD`.
 
 	git fetch
 
-Updatet alle *Remote Tracking Branches*.
+Updatet alle *Remote Tracking Branches*. Braucht man meistens nicht,
+man sollte lieber `git pull` verwenden.
 
 Misc
 ----
@@ -177,6 +182,7 @@ Glossar
 	Checkout     Zu einem anderen Branch wechseln
 	Diff         Änderung (difference)
 	Hash         Alle Objekte in Git haben einen eindeutigen SHA-1-Hash
+	HEAD         neuester Commit
 	Index        Enthält alle Dateien, die beim nächsten Commit committet werden
 	Master       standardmäßiger Name des Hauptbranches
 	Patch        Synonym zu Diff
