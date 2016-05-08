@@ -12,12 +12,12 @@ Konfiguration, Initialisierung
 
 Initialisiert leeres Repository (legt `.git`-Ordner an)
 
-	git config [--global] user.name "My Name"
+	git config --global user.name "My Name"
 
 Setzt den Namen des Users für diese Repo bzw. für diesen Benutzer, falls `--global`
 verwendet wird. GitHub ignoriert diesen Namen.
 
-	git config [--global] user.email "foo@bar.com"
+	git config --global user.email "foo@bar.com"
 
 Setzt die E-Mail-Adresse des Users. GitHub verwendet allein diese Adresse zur Identifikation.
 
@@ -26,6 +26,11 @@ Setzt die E-Mail-Adresse des Users. GitHub verwendet allein diese Adresse zur Id
 Setzt den Proxy. Das Passwort auf dem Proxy muss angegeben werden.
 Der Proxy des CSG hat die interne Adresse 10.189.1.17, Port 8000,
 die Logindaten sind die, die man beim Windows-Login eingibt.
+
+	git config --global credential.helper wincred
+
+Nachdem der *Credential Helper* gesetzt ist, muss man sein GitHub-Passwort nicht
+jedesmal eingeben.
 
 Status und Geschichte
 ---------------------
