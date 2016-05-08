@@ -177,21 +177,22 @@ Format:
 Glossar
 =======
 
-	Branch       unabhängiger "Ast" von Commits
-	Commit       Sammlung von Änderungen im Vergleich zum letzten Commit
-	Checkout     Zu einem anderen Branch wechseln
-	Diff         Änderung (difference)
-	Hash         Alle Objekte in Git haben einen eindeutigen SHA-1-Hash
-	HEAD         neuester Commit
-	Index        Enthält alle Dateien, die beim nächsten Commit committet werden
-	Master       standardmäßiger Name des Hauptbranches
-	Patch        Synonym zu Diff
-	Remote Tracking Branch
-	             Branch, der auf einen Branch auf einem anderen System zeigt (z.B. github.com)
-	Repository   Ort, der das Projekt enthält
-	SCM          Source Code Management, häufig als Synonym zu VCS
-	Staging      Aufnahme einer Datei in den Index
-	Tag          "Zeiger" auf einen Commit, z.B. zum Markieren einer Version (v1.4)
-	Trunk        Synonym zu Master in anderen VCS
-	VCS          Version Control System
-	Working Tree Arbeitsverzeichnis
+Begriff                 | Beschreibung
+------------------------|----------------------------------------------------------------------------------
+Branch                  | unabhängiger "Ast" von Commits
+Commit                  | Sammlung von Änderungen im Vergleich zum letzten Commit
+Checkout                | zu einem anderen Branch wechseln
+Diff                    | Änderung (difference)
+Hash                    | Alle Objekte in Git haben einen eindeutigen SHA-1-Hash
+HEAD                    | neuester Commit
+Index                   | Enthält alle Dateien, die beim nächsten Commit committet werden
+Master                  | standardmäßiger Name des Hauptbranches
+Patch                   | Synonym zu Diff
+Remote Tracking Branch  | Branch, der auf einen Branch auf einem anderen System zeigt (z.B. github.com)
+Repository              | Ort, der das Projekt enthält
+SCM                     | Source Code Management, häufig als Synonym zu VCS
+Staging                 | Aufnahme einer Datei in den Index
+Tag                     | "Zeiger" auf einen Commit, z.B. zum Markieren einer Version (v1.4)
+Trunk                   | Synonym zu Master in anderen VCS
+VCS                     | Version Control System
+Working Tree            | Arbeitsverzeichnis
