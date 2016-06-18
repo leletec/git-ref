@@ -21,7 +21,7 @@ verwendet wird. GitHub ignoriert diesen Namen.
 
 Setzt die E-Mail-Adresse des Users. GitHub verwendet allein diese Adresse zur Identifikation.
 
-	git config --global http.proxy "https://username:password@proxy:port"
+	git config --global http.proxy "http://username:password@proxy:port"
 
 Setzt den Proxy. Das Passwort auf dem Proxy muss angegeben werden.
 Der Proxy des CSG hat die interne Adresse 10.189.1.17, Port 8000,
